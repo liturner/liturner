@@ -4,7 +4,7 @@
 - 👀 I’m interested in working towards a PhD focused somwehow around Civil Protection and Disaster Assistance
 - 🌱 I’m currently learning Java GUI programming (Swing) and Geotools
 - 💞️ I’m looking to collaborate on projects which support the German [Federal Office of Civil Protection and Disaster Assistance](https://www.bbk.bund.de/EN/Home/home_node.html)
-- 📙 I have been Programming and Technology focused since 2005, have a BSc in Games Graphics Programming 
+- 📙 I have been Programming and Technology focused since 2005 and have a BSc in Games Graphics Programming 
 - 👨‍💻 I work as a professional Developer with Leadership roles
 - 📫 Reach me via Hermine (THW), Jabber (Airbus), or by opening a new issue on one of my repositories
 
